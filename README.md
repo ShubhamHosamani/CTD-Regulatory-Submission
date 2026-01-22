@@ -63,3 +63,4 @@ No real clinical, nonclinical, or manufacturing data is used.
 ## Author
 Shubham Hosamani  
 M.Pharm (Pharmaceutics)  
+Acharya & B.M Reddy College Of Pharmacy
